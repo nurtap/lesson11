@@ -1,0 +1,66 @@
+{
+  "personalInformation": {
+    "name": "John Doe",
+    "title": "Junior Software Developer",
+    "email": "john.doe@example.com",
+    "phone": "123-456-7890",
+    "linkedin": "linkedin.com/in/johndoe",
+    "github": "github.com/johndoe",
+    "location": "Anytown, USA"
+  },
+  "workExperience": [
+    {
+      "company": "Tech Startup Inc.",
+      "title": "Software Developer Intern",
+      "startDate": "June 2022",
+      "endDate": "December 2022",
+      "description": "Assisted senior developers in building web applications. Implemented new features and resolved bugs. Participated in code reviews and agile development processes."
+    },
+    {
+      "company": "Web Solutions Ltd.",
+      "title": "Front-End Developer Assistant",
+      "startDate": "January 2023",
+      "endDate": "Present",
+      "description": "Developing and maintaining responsive websites using HTML, CSS, and JavaScript. Collaborating with designers to implement UI/UX designs. Optimizing website performance."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Anytown",
+      "degree": "Bachelor of Science in Computer Science",
+      "startDate": "September 2018",
+      "endDate": "May 2022",
+      "description": "Relevant coursework included data structures, algorithms, and software engineering."
+    }
+  ],
+    "techSkills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Git",
+        "SQL"
+    ],
+    "softSkills": [
+        "Problem-solving",
+        "Teamwork",
+        "Communication",
+        "Time management",
+        "Adaptability"
+    ],
+    "projects": [
+        {
+            "name": "Personal Portfolio Website",
+            "description": "Developed a personal portfolio website to showcase projects and skills using React.",
+            "technologies": ["React", "HTML", "CSS", "JavaScript"],
+            "link": "github.com/johndoe/portfolio"
+        },
+        {
+            "name": "Task Management App",
+            "description": "Created a task management application using Node.js and SQL for backend data storage.",
+            "technologies": ["Node.js", "SQL", "JavaScript"],
+            "link": "github.com/johndoe/task-app"
+        }
+    ]
+}
